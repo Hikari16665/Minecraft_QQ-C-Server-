@@ -1,4 +1,4 @@
-# Minecraft服务器与QQ群聊天的插件  
+# Minecraft服务器与QQ群聊天的插件  FORK
 Minecraft_QQ 插件本体(Cmd/NewGui)
 
 机器人使用[Onebot](https://onebot.dev/)v11协议的机器人即可   
